@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Kerim
-- 👀 I’m interested in developing websites, apllications, network security.
-- 🌱 I’m currently learning HTML,CSS Javascript and frameworks, SQL and more.
-- 💞️ I’m looking to collaborate on software projects.
+- Hi, I’m Kerim
+- I’m interested in developing websites, applications, network security.
 - 📫 How to reach me kerimyusuf63@gmail.com
 
 <!---
