@@ -1,5 +1,5 @@
 - Hi, I’m Kerim
-- I’m interested in developing websites, applications, network security.
+- I’m interested in developing websites, games, network security.
 - 📫 How to reach me kerimyusuf63@gmail.com
 
 <!---
