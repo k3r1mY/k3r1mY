@@ -8,8 +8,7 @@
   Fullstack Developer
 </h2>
 <div align="center">
-
-</div>
+I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN** with a passion for continuous learning.</div>
 
 <!---
 k3r1mY/k3r1mY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
