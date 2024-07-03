@@ -15,7 +15,6 @@
 <details>
   <summary>
     <h2> 
-![Stats Flex GIF](https://media.tenor.com/images/123456789abcdef123456789abcdef/tenor.gif)
       Resume
     </h2>
   </summary>
@@ -73,6 +72,7 @@
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:kerimyusuf63@gmail.com">
+      Gmail
     </a>
   </p>
 </details>
