@@ -28,8 +28,13 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
+  - **Junior Software Engineer ** at [Company] | [Duration]
+    <ul>
+      <li>Maintaining and revisions of company website</li>
+      <li>Maintaining and revisions of company website</li>
+      <li>Maintaining and revisions of company website</li>
+      <li>Maintaining and revisions of company website</li>
+    </ul>
  </details>
 </details>
 <!---
