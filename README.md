@@ -5,6 +5,7 @@
 
 <div align="center">
   I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN** with a passion for continuous learning.
+</div>
 
 
 - 👋 Hi, I’m Kerim
@@ -49,15 +50,16 @@
 </details>
 
 <details>
-  <summary><h2>  Stats</h2></summary>
+  <summary><h2>Stats</h2></summary>
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
+    <img src="https://github-readme-stats.vercel.app/api?username=k3r1mY&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=k3r1mY&theme=tokyonight&hide_border=false"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3r1mY&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=k3r1mY&theme=tokyo-night"/>
   </div>
 </details>
-</div>
+
+
 
 
 
