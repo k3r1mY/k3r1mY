@@ -68,7 +68,7 @@
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/k3r1m/k3r1m/icons/Contact.png" width="37"/> Contact Me</h2></summary>
+  <summary><h2> <img align="center" src="icons/Contact.png" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:kerimyusuf63@gmail.com">
