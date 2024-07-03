@@ -19,13 +19,13 @@
   </summary>
 
   <details>
-    <summary><h4> <img align="center" src="https://github.com/k3r1mY/k3r1mY/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+    <summary><h4>  Academics</h4></summary>
     <span><img src="https://img.shields.io/badge/BSc-Eastern Mediterranean University-1877F2?style=for-the-badge"></span>
     <span><img src="https://img.shields.io/badge/GPA-2.68-EFEEE9?style=for-the-badge"></span>
   </details>
 
   <details>
-    <summary><h4> <img align="center" src="https://github.com/k3r1mY/k3r1mY/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+    <summary><h4> Experience</h4></summary>
     - **Junior Software Engineer** at The Pied Piper Pest Control Company Limited | Sep 2023 - Feb 2024
       <ul>
         <li>Maintained and revised the company website</li>
@@ -36,8 +36,7 @@
   </details>
 
   <details>
-  <summary><h4>  Tech Stack</h4></summary>
-  ![Static Badge](https://img.shields.io/badge/:badgeContent?logo=html&logoColor=red)
+  <summary><h4>Tech Stack</h4></summary>
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
