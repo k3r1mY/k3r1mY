@@ -28,12 +28,12 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **Junior Software Engineer ** at [Company] | [Duration]
+  - **Junior Software Engineer ** at The Pied Piper Pest Control Company Limited | Sep2023 - Feb 2024
     <ul>
       <li>Maintaining and revisions of company website</li>
-      <li>Maintaining and revisions of company website</li>
-      <li>Maintaining and revisions of company website</li>
-      <li>Maintaining and revisions of company website</li>
+      <li>Using HTML, CSS and JavaScript to add, and edit the site according to client needs.</li>
+      <li>Redesigned parts of the site for a better user experience.</li>
+      <li>Created and added multiple landing pages for new products and services.</li>
     </ul>
  </details>
 </details>
