@@ -35,9 +35,8 @@
         <li>Created and added multiple landing pages for new products and services</li>
       </ul>
   </details>
-</details>
 
-<details>
+  <details>
   <summary><h4> <img align="center" src="https://github.com/k3r1mY/k3r1mY/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,6 +44,9 @@
   <!-- Add more technologies here -->
 
 </details>
+</details>
+
+
 
 <!---
 k3r1mY/k3r1mY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
