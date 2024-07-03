@@ -39,11 +39,11 @@
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/k3r1mY/k3r1mY/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
-  <span>
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    <!-- Add more technologies here -->
-  </span>
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  <!-- Add more technologies here -->
+
 </details>
 
 <!---
