@@ -15,7 +15,8 @@
 <details>
   <summary>
     <h2> 
-      <div class="tenor-gif-embed" data-postid="23477283" data-share-method="host" data-aspect-ratio="1.75824" data-width="100%"><a href="https://tenor.com/view/stats-flex-blox-fruits-melee-defense-gif-23477283">Stats Flex GIF</a>from <a href="https://tenor.com/search/stats-gifs">Stats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      ![gif](![Stats Flex GIF](https://media.tenor.com/images/123456789abcdef123456789abcdef/tenor.gif)
+)
       Resume
     </h2>
   </summary>
