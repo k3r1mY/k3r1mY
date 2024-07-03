@@ -21,7 +21,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </summary>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/k3r1m/k3r1m/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
  </details>
