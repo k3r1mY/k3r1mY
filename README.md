@@ -15,8 +15,7 @@
 <details>
   <summary>
     <h2> 
-      ![gif](![Stats Flex GIF](https://media.tenor.com/images/123456789abcdef123456789abcdef/tenor.gif)
-)
+![Stats Flex GIF](https://media.tenor.com/images/123456789abcdef123456789abcdef/tenor.gif)
       Resume
     </h2>
   </summary>
