@@ -15,12 +15,13 @@
 <details>
   <summary>
     <h2> 
+      <div class="tenor-gif-embed" data-postid="23477283" data-share-method="host" data-aspect-ratio="1.75824" data-width="100%"><a href="https://tenor.com/view/stats-flex-blox-fruits-melee-defense-gif-23477283">Stats Flex GIF</a>from <a href="https://tenor.com/search/stats-gifs">Stats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
       Resume
     </h2>
   </summary>
 
   <details>
-    <summary><h4>  Academics</h4></summary>
+    <summary><h4>Academics</h4></summary>
     <span><img src="https://img.shields.io/badge/BSc-Eastern Mediterranean University-1877F2?style=for-the-badge"></span>
     <span><img src="https://img.shields.io/badge/GPA-2.68-EFEEE9?style=for-the-badge"></span>
   </details>
